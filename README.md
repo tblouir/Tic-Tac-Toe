@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Ruby Tic-Tac-Toe
+Ruby Terminal Tic-Tac-Toe
